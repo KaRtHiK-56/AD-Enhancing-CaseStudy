@@ -1,4 +1,4 @@
-# Advertisement Creative Performance Prediction Case Study
+# Enhancing Advertisement Performance Prediction Case Study
 
 ## Table of Contents
 1. [Introduction](#introduction)
